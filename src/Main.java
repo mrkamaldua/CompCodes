@@ -7,7 +7,7 @@ public class Main {
        }
 
 }
-
+//Hello new comment is added
 class Solver
 {
        public String solve()
